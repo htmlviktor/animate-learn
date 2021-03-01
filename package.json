@@ -60,6 +60,6 @@
   },
   "dependencies": {
     "swiper": "5.3.8",
-    "three": "0.115.0"
+    "three": "0.125.0"
   }
 }
