@@ -59,7 +59,7 @@
     "node": "8.15"
   },
   "dependencies": {
-    "swiper": "5.3.8",
+    "swiper": "6.5.1",
     "three": "0.115.0"
   }
 }
